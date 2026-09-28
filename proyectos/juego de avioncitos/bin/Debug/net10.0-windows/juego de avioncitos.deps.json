@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "juego de avioncitos/1.0.0": {
+        "runtime": {
+          "juego de avioncitos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "juego de avioncitos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
